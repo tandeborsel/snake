@@ -33,5 +33,5 @@
 
 bin/
 
-.depend
-.layout
+*.depend
+*.layout
